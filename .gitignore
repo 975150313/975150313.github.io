@@ -1,2 +1,4 @@
-
-assets/css/font-awesome.min.css
+/_site
+*.gem
+.sass-cache
+Gemfile.lock
